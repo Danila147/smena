@@ -1,0 +1,6 @@
+.header__navigation {
+  width: 100%;
+  background-color: #e9c46a;
+  display: flex;
+  align-items: center;
+}

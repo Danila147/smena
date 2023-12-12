@@ -1,0 +1,14 @@
+.button {
+  display: inline-block;
+  color: #3e3740;
+  background-color: #e9c46a;
+  border-radius: 10px;
+  user-select: none;
+  line-height: normal;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.48px;
+  border: 0;
+  width: 240px;
+  height: 68px;
+}

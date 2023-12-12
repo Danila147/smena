@@ -1,0 +1,77 @@
+@import url(./vendor/normalize.css);
+
+@import url(./vendor/fonts/montserrat/Montserrat.css);
+
+@import url(./blocks/root/root.css);
+
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/logo-container/logo-container.css);
+
+@import url(./blocks/logo/logo.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__links/header__links.css);
+@import url(./blocks/header/__link/header__link.css);
+@import url(./blocks/header/__navigation/header__navigation.css);
+
+@import url(./blocks/content/content.css);
+
+@import url(./blocks/text-container/text-container.css);
+
+@import url(./blocks/lead/lead.css);
+@import url(./blocks/lead/__title/lead__title.css);
+@import url(./blocks/lead/__subtitle/lead__subtitle.css);
+@import url(./blocks/lead/__image/lead__image.css);
+@import url(./blocks/lead/__star/lead__star.css);
+@import url(./blocks/lead/__button/lead__button.css);
+
+@import url(./blocks/text/text_color_yellow.css);
+@import url(./blocks/text/text_size_large.css);
+
+@import url(./blocks/button/button.css);
+
+@import url(./blocks/info/info.css);
+@import url(./blocks/info/__image/info__image.css);
+@import url(./blocks/info/__text-info/info__text-info.css);
+@import url(./blocks/info/__text/info__text.css);
+@import url(./blocks/info/__span/info__span.css);
+@import url(./blocks/info/__text/info__text_add.css);
+@import url(./blocks/info/__star/info__star.css);
+
+@import url(./blocks/menu/menu.css);
+@import url(./blocks/menu/__title/menu__title.css);
+@import url(./blocks/menu/__cards/menu__cards.css);
+@import url(./blocks/menu/__elipse/menu__elipse.css);
+@import url(./blocks/menu/__star/menu__star_first.css);
+@import url(./blocks/menu/__star/menu__star_second.css);
+
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__img/card__img.css);
+
+@import url(./blocks/star/star.css);
+
+@import url(./blocks/elipse/elipse.css);
+
+@import url(./blocks/join/join.css);
+@import url(./blocks/join/__title/join__title.css);
+@import url(./blocks/join/__text-container/join__text-container.css);
+@import url(./blocks/join/__text/join__text.css);
+@import url(./blocks/join/__elipse/join__elipse.css);
+
+@import url(./blocks/contacts/contacts.css);
+@import url(./blocks/contacts/__info/contacts__info.css);
+@import url(./blocks/contacts/__title/contacts__title.css);
+@import url(./blocks/contacts/__address/contacts__address.css);
+@import url(./blocks/contacts/__time/contacts__time.css);
+@import url(./blocks/contacts/__image/contacts__image.css);
+@import url(./blocks/contacts/__star/contacts__star.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__links/footer__links.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__contacts/footer__contacts.css);
+@import url(./blocks/footer/__text-info/footer__text-info.css);
+@import url(./blocks/footer/__text-info/footer__text-info_large.css);
